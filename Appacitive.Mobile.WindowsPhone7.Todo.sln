@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Appacitive.Mobile.WindowsPhone7.Todo", "Appacitive.Mobile.WindowsPhone7.Todo\Appacitive.Mobile.WindowsPhone7.Todo.csproj", "{A41B2770-6C02-41D2-AB8E-C40F4CAC41BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41B2770-6C02-41D2-AB8E-C40F4CAC41BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41B2770-6C02-41D2-AB8E-C40F4CAC41BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41B2770-6C02-41D2-AB8E-C40F4CAC41BF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A41B2770-6C02-41D2-AB8E-C40F4CAC41BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41B2770-6C02-41D2-AB8E-C40F4CAC41BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41B2770-6C02-41D2-AB8E-C40F4CAC41BF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
